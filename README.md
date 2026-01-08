@@ -2,6 +2,11 @@
 
 A secure web-based, collaborative terminal.
 
+<p align="center">
+  <img src="meshtp.png" width="420" />
+</p>
+
+
 ![](https://i.imgur.com/Q3qKAHW.png)
 
 **Features:**
