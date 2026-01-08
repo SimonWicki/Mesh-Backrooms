@@ -1,4 +1,4 @@
-# sshx
+# sshx - Mesh Backrooms
 
 A secure web-based, collaborative terminal.
 
